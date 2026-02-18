@@ -139,6 +139,9 @@ jupyter notebook "Pore Presuure in KGB Analysis.ipynb"
 - Sensor-based ML can serve as a practical, low-cost alternative to direct pore pressure measurement in data-rich basin environments
 
 ---
+## 📄 License
+This project is licensed under the MIT License.
+
 
 ## 👩‍💻 Author
 
